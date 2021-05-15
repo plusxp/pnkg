@@ -1,0 +1,17 @@
+{
+    "name": "pnkg",
+    "version": "1.0.0",
+    "description": "PNG bundler",
+    "main": "index.js",
+    "bin": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "commander": "^7.2.0",
+        "pngjs": "^6.0.0"
+    }
+}
