@@ -1,4 +1,4 @@
-# PNKG [![Build Status](https://secure.travis-ci.org/swashvirus/pnkg.png?branch=master)](http://travis-ci.org/swashvirus/pnkg)
+# PNKG [![Build Status](https://api.travis-ci.com/swashvirus/pnkg.svg?branch=main)](http://travis-ci.com/swashvirus/pnkg)
 
 ## Definition in brief:
 Pnkg is a node module that allows you to package arbitrary files into PNG bundles.
