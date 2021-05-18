@@ -1,18 +1,22 @@
 # PNKG [![Build Status](https://api.travis-ci.com/swashvirus/pnkg.svg?branch=main)](https://travis-ci.com/swashvirus/pnkg)
-[![Pnkg logo](pnkg.png)](https://github.com/swashvirus/pnkg)
+[![Pnkg logo](pnkg-gray.png)](https://github.com/swashvirus/pnkg)
 ## Definition in brief:
 Pnkg is a node module that allows you to package arbitrary files into PNG bundles.
 
 ## Installation Instructions:
 Install as a node module, from commandline type:
-`npm install pnkg`
+```
+npm install pnkg
+```
 
 ```javascript
 const {pack, unpack} = require("pnkg")
 ```
 
 Install as a commandline module globally type:
-`npm install —global pnkg`
+```
+npm install —global pnkg
+```
 
 ## Documentation
 _(Coming soon)_
