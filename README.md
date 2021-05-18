@@ -5,14 +5,18 @@ Pnkg is a node module that allows you to package arbitrary files into PNG bundle
 
 ## Installation Instructions:
 Install as a node module, from commandline type:
-`npm install pnkg`
+```
+npm install pnkg
+```
 
 ```javascript
 const {pack, unpack} = require("pnkg")
 ```
 
 Install as a commandline module globally type:
-`npm install —global pnkg`
+```
+npm install —global pnkg
+```
 
 ## Documentation
 _(Coming soon)_
