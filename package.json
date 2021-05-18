@@ -4,14 +4,26 @@
     "description": "PNG bundler",
     "main": "index.js",
     "bin": "index.js",
+    "directories": {
+        "lib": "lib",
+        "test": "test"
+    },
     "scripts": {
         "build:dev": "grunt --gruntfile \".gruntfile.js\" build:dev",
         "build:prod": "grunt --gruntfile \".gruntfile.js\" build:prod",
         "test": "mocha test"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/swashvirus/pnkg.git"
+    },
     "keywords": [],
     "author": "",
     "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/swashvirus/pnkg/issues"
+    },
+    "homepage": "https://github.com/swashvirus/pnkg#readme",
     "dependencies": {
         "commander": "^7.2.0",
         "pngjs": "^6.0.0"
